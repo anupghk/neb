@@ -29,7 +29,8 @@
 </head>
 <body>
 
-<h2>How To Create A Loader</h2>
+<h2>H
+Loading data</h2>
 
 <div class="loader"></div>
 
