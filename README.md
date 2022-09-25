@@ -29,7 +29,7 @@
 </head>
 <body>
 
-<h2>H
+<h2>
 Loading data</h2>
 
 <div class="loader"></div>
